@@ -1,5 +1,4 @@
-# Currency-Converter
-# Currency-Converter
+# Currency Converter
 import java.util.Scanner;
 
 public class CurrencyConverter {
